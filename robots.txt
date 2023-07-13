@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sukritshankar.github.io/al-folio/sitemap.xml
